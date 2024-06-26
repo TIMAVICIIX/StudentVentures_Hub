@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="StudentVentures_Hub:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7cd535ab-5ac0-4a90-a809-ff49b6bbaa14" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Kotlin Interface" />
+        <option value="Jsp File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2Ya4KzpCMHjFiw40iqSXKLn79Ky" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ShowUsagesActions.previewPropertyKey": "true",
+    "Tomcat 服务器.Tomcat 10.1.12.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Git_Space/Code_Space/JavaEE(Jakarta)/System_Dev/StudentVentures_Hub/src/main/webapp/User's_Avatar",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "库",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.41034484",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "java.sql.Driver"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git_Space\Code_Space\JavaEE(Jakarta)\System_Dev\StudentVentures_Hub\src\main\webapp\User's_Avatar" />
+      <recent name="D:\Git_Space\Code_Space\JavaEE(Jakarta)\System_Dev\StudentVentures_Hub\src\main\webapp\static" />
+      <recent name="D:\Git_Space\Code_Space\JavaEE(Jakarta)\System_Dev\StudentVentures_Hub\src\main\webapp\static\laydate" />
+      <recent name="D:\Git_Space\Code_Space\JavaEE(Jakarta)\System_Dev\StudentVentures_Hub\src\main\webapp\static\Js\bootstrap" />
+      <recent name="D:\Git_Space\Code_Space\JavaEE(Jakarta)\System_Dev\StudentVentures_Hub\src\main\webapp\static\css\bootstrap" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Git_Space\Code_Space\JavaEE(Jakarta)\System_Dev\StudentVentures_Hub\src\main\webapp\static\Js\thirdPart" />
+      <recent name="D:\Git_Space\Code_Space\JavaEE(Jakarta)\System_Dev\StudentVentures_Hub\src\main\webapp\User's_Avatar" />
+      <recent name="D:\Git_Space\Code_Space\JavaEE(Jakarta)\System_Dev\StudentVentures_Hub\src\main\webapp\static\Js\home" />
+      <recent name="D:\Git_Space\Code_Space\JavaEE(Jakarta)\System_Dev\StudentVentures_Hub\src\main\webapp\static\Js\index" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.svh.studentventures_hub.protocol" />
+      <recent name="com.svh.studentventures_hub.dao_party.dao_model" />
+      <recent name="com.svh.studentventures_hub.dao_party.model.info" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.svh.studentventures_hub.hello" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 10.1.12" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.12" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="StudentVentures_Hub:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/StudentVentures_Hub" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="19455cb6-6c9a-4a85-a963-79cc3c2e6b15" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65201" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="StudentVentures_Hub:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="7cd535ab-5ac0-4a90-a809-ff49b6bbaa14" name="更改" comment="" />
+      <created>1700750298384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700750298384</updated>
+      <workItem from="1700750299464" duration="654000" />
+      <workItem from="1700751246634" duration="54000" />
+      <workItem from="1700836053724" duration="270000" />
+      <workItem from="1700900138731" duration="1201000" />
+      <workItem from="1700914099052" duration="1491000" />
+      <workItem from="1700982382131" duration="1661000" />
+      <workItem from="1700992034336" duration="2115000" />
+      <workItem from="1701002602496" duration="2504000" />
+      <workItem from="1701051998000" duration="2881000" />
+      <workItem from="1701087151423" duration="4708000" />
+      <workItem from="1701137051251" duration="5503000" />
+      <workItem from="1701159356021" duration="119000" />
+      <workItem from="1701168630772" duration="948000" />
+      <workItem from="1701238227397" duration="692000" />
+      <workItem from="1701331049540" duration="2328000" />
+      <workItem from="1701498802235" duration="6708000" />
+      <workItem from="1701587474994" duration="16938000" />
+      <workItem from="1701613053510" duration="2213000" />
+      <workItem from="1701680017360" duration="1207000" />
+      <workItem from="1701687348797" duration="13545000" />
+      <workItem from="1701741676416" duration="6014000" />
+      <workItem from="1701763116745" duration="7472000" />
+      <workItem from="1701774396549" duration="6557000" />
+      <workItem from="1701782498700" duration="1844000" />
+      <workItem from="1701860337528" duration="9636000" />
+      <workItem from="1701921661004" duration="706000" />
+      <workItem from="1701936096349" duration="6052000" />
+      <workItem from="1701947695711" duration="339000" />
+      <workItem from="1701948529016" duration="11633000" />
+      <workItem from="1702032149597" duration="10191000" />
+      <workItem from="1702107934870" duration="10406000" />
+      <workItem from="1702212630312" duration="8250000" />
+      <workItem from="1702265303552" duration="1052000" />
+      <workItem from="1702274731782" duration="12017000" />
+      <workItem from="1702290633665" duration="16482000" />
+      <workItem from="1702346670832" duration="5761000" />
+      <workItem from="1702368658411" duration="7433000" />
+      <workItem from="1702378703054" duration="7244000" />
+      <workItem from="1702390239001" duration="5553000" />
+      <workItem from="1702440044059" duration="28367000" />
+      <workItem from="1702512304202" duration="956000" />
+      <workItem from="1702513278733" duration="4853000" />
+      <workItem from="1702523470616" duration="2508000" />
+      <workItem from="1702540926374" duration="5884000" />
+      <workItem from="1702556856460" duration="8058000" />
+      <workItem from="1702622546954" duration="3459000" />
+      <workItem from="1702633638902" duration="16184000" />
+      <workItem from="1702797002026" duration="5978000" />
+      <workItem from="1702815888914" duration="3621000" />
+      <workItem from="1702879363934" duration="5880000" />
+      <workItem from="1702888956649" duration="10938000" />
+      <workItem from="1702951361182" duration="5050000" />
+      <workItem from="1702986224953" duration="6346000" />
+      <workItem from="1703052024757" duration="3100000" />
+      <workItem from="1703071301806" duration="7300000" />
+      <workItem from="1703145565751" duration="6092000" />
+      <workItem from="1703162122112" duration="12734000" />
+      <workItem from="1703255058740" duration="875000" />
+      <workItem from="1703321617689" duration="1501000" />
+      <workItem from="1703332540637" duration="3655000" />
+      <workItem from="1703398068770" duration="26939000" />
+      <workItem from="1703482184433" duration="10933000" />
+      <workItem from="1703500294910" duration="12893000" />
+      <workItem from="1703576234907" duration="36094000" />
+      <workItem from="1703645804784" duration="3161000" />
+      <workItem from="1703648970294" duration="37658000" />
+      <workItem from="1703696995388" duration="580000" />
+      <workItem from="1703737628249" duration="21367000" />
+      <workItem from="1703868402185" duration="724000" />
+      <workItem from="1716888967805" duration="35000" />
+      <workItem from="1716889027773" duration="6000" />
+      <workItem from="1716889043752" duration="110000" />
+      <workItem from="1717394478833" duration="5430000" />
+      <workItem from="1717399928693" duration="476000" />
+      <workItem from="1717472684433" duration="2654000" />
+      <workItem from="1717475720722" duration="863000" />
+      <workItem from="1717488075299" duration="1678000" />
+      <workItem from="1717551016294" duration="285000" />
+      <workItem from="1718098128424" duration="613000" />
+      <workItem from="1718105075608" duration="2882000" />
+      <workItem from="1718109717967" duration="690000" />
+      <workItem from="1718191909132" duration="4688000" />
+      <workItem from="1718278154932" duration="2000" />
+      <workItem from="1718278231479" duration="2992000" />
+      <workItem from="1718284304889" duration="1203000" />
+      <workItem from="1718287885375" duration="2580000" />
+      <workItem from="1718294005545" duration="610000" />
+      <workItem from="1718342395391" duration="2356000" />
+      <workItem from="1718349193319" duration="209000" />
+      <workItem from="1718377527512" duration="1444000" />
+      <workItem from="1718604184477" duration="3766000" />
+      <workItem from="1718625794027" duration="5150000" />
+      <workItem from="1718711813468" duration="2603000" />
+      <workItem from="1718717648800" duration="719000" />
+      <workItem from="1718767483571" duration="641000" />
+      <workItem from="1718777981535" duration="637000" />
+      <workItem from="1718780739151" duration="661000" />
+      <workItem from="1718795440748" duration="3639000" />
+      <workItem from="1718801473675" duration="1823000" />
+      <workItem from="1718805378097" duration="1909000" />
+      <workItem from="1718889829132" duration="740000" />
+      <workItem from="1718895591746" duration="719000" />
+      <workItem from="1718970296647" duration="6918000" />
+      <workItem from="1719034849585" duration="16888000" />
+      <workItem from="1719110465769" duration="605000" />
+      <workItem from="1719113121793" duration="487000" />
+      <workItem from="1719211034852" duration="627000" />
+      <workItem from="1719217378230" duration="107000" />
+      <workItem from="1719217795311" duration="463000" />
+      <workItem from="1719302537966" duration="639000" />
+      <workItem from="1719305863174" duration="620000" />
+      <workItem from="1719361481922" duration="13000" />
+      <workItem from="1719362508825" duration="1770000" />
+      <workItem from="1719409248590" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
